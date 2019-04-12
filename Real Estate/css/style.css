@@ -1,0 +1,41 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Europa", sans-serif;
+  color: black;
+  background-color: gold;
+  border: 3px solid black;
+  padding: 20px 10px;
+  margin-bottom: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: normal;
+  font-family: "Dokdo", serif;
+}
+
+ul {
+  text-align: center;
+  padding: 20px;
+}
+
+li {
+  display: inline-block;
+  margin: 0 30px;
+}
+
+li:hover {
+  background-color: gold;
+}
+
+img {
+  display: block;
+  margin: 30px auto;
+}
